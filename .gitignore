@@ -1,4 +1,6 @@
 # App js
-app/*.js
+*/app/*.js
+*/node_modules/*
+*/typings/*
 
 
