@@ -1,5 +1,6 @@
 # ignored files
 */app/*.js
+*/app/*.js.map
 */node_modules/*
 */typings/*
 
