@@ -1,0 +1,7 @@
+# ignored files
+*.js
+*.js.map
+*/node_modules/*
+*/typings/*
+
+
